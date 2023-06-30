@@ -2,12 +2,19 @@ header{
   background-color: darkblue;
   text-align: center;
   color: lightgray;
+
 }
 
-h1{
+
+
+main{
   background-color: lightgray;
+  padding: 1em;
+
 }
 
 body{
-  background-image: url();
+  background-image: url('/assignment/record.png');
+  background-repeat: repeat;
+  margin: 0
 }
